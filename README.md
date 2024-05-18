@@ -1,2 +1,2 @@
-# Cpp-STL-Tutorial-and-Examples
-This project explores different STL libraries and the main functionality.
+# cpp-STL-and-data_structures 
+This project explores different STL libraries and their main functionality, alongwith multiple data structures.
